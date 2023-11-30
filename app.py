@@ -27,7 +27,7 @@ def data():
     columns = [column[1] for column in columns_info]
     conn.close()
 
-    return render_template("data_table_fillin.html", movies = movies, columns = columns)
+    return render_template("data.html", movies = movies, columns = columns)
 
 if __name__=="__main__":
     app.run(debug=True)
