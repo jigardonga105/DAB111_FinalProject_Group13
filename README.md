@@ -15,17 +15,17 @@ Website contains mainly 3 pages, Home, About Us, and Movies (data). About Us pag
 
 ## Marvel Cinematic Universe (MCU) Movies Dataset
 
-## Overview
+### Overview
 
 The Marvel Cinematic Universe (MCU) Movies Dataset is a comprehensive collection of data related to the Marvel Studios' film franchise. The dataset covers movies released from 2008 onwards when the MCU was introduced. The information includes details such as movie phases, duration, release year, IMDB ratings, genre, cast, box office collections in different regions, rankings, CinemaScore, budget, director, producer, and more.
 
-## Source of Data
+### Source of Data
 
 The dataset is sourced from Kaggle and is named "mcu-movies-dataset."
 
 **Link to Source:** [mcu-movies-dataset](https://www.kaggle.com/datasets/dalepeh/mcu-movies-dataset)
 
-## Data Variables
+### Data Variables
 
 - **Phase:** Phase of the movie
 - **Film:** Name of the movie
@@ -47,7 +47,7 @@ The dataset is sourced from Kaggle and is named "mcu-movies-dataset."
 - **Producer:** Producer of the movie
 - **Movie Image:** Poster of the movie (URL)
 
-## Marvel Phases
+### Marvel Phases
 
 Marvel Studios releases its films in groups called "Phases." The first three phases are collectively known as "The Infinity Saga," and the following three phases as "The Multiverse Saga."
 
