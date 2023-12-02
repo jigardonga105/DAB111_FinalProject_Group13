@@ -52,6 +52,10 @@ The dataset is sourced from Kaggle and is named "mcu-movies-dataset."
 Marvel Studios releases its films in groups called "Phases." The first three phases are collectively known as "The Infinity Saga," and the following three phases as "The Multiverse Saga."
 
 ## Example Usage
+ Download required modules first:
+
+ - Run command "pip install -r requirements.txt"
+ - This will install all required packages for this project
 
  Run app Locally:
  
