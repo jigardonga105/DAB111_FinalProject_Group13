@@ -1,6 +1,6 @@
 # DAB 111 - Python Final Project
 
-## Group Members:
+### Group Members:
 
 Group No. 13
 
@@ -8,7 +8,7 @@ Group No. 13
  - Ayush Raj Saxena - 0832578
  - Shreyas Joshi - 0837922
  
-## Project Objective:
+### Project Objective:
 
 This project contains the usage of Python, Pandas, SQLite3, and Flask. Using Pandas, we are reading data from dataset and stored in database using SQLite3 package. Flask is used to present stored data of database on web.
 Website contains mainly 3 pages, Home, About Us, and Movies (data). About Us page shows the details about dataset and defination of each variable. Movies (data) page shows the data stored in database using SQLite3.
