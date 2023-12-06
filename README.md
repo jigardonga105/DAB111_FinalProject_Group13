@@ -60,6 +60,7 @@ Marvel Studios releases its films in groups called "Phases." The first three pha
  Run app Locally:
 
  (Follow first 2 steps if you not see 'MCU_Data.csv' or 'MCU.db' file in root directory)
+
  Step 1:
  - If you not see 'MCU_Data.csv' file in root directory, then open new terminal in 'data processing' folder
  - Run "python clean_data.py" command, this will clean up original file and generate new file called 'MCU_Data.csv'
