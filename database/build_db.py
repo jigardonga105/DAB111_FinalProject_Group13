@@ -4,8 +4,7 @@ import sqlite3
 import pandas as pd
 
 # use pathlib to get current working directory
-path = Path.cwd()
-
+path = Path.cwd().parent
 
 def create_db(db_name, filename, table_name):
     # create a path to the data file

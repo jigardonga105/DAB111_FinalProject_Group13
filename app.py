@@ -4,7 +4,8 @@ import sqlite3
 
 base_path = Path.cwd()
 db_name = "MCU.db"
-file_path = base_path / db_name
+file_path = base_path / "database" / db_name
+print(file_path)
 
 app = Flask(__name__)
 
